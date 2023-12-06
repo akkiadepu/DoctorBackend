@@ -1,0 +1,61 @@
+{
+  "doctors": [
+    {
+      "name": "Akhilandeswa",
+      "salary": "25000",
+      "gender": "famale",
+      "age": "25",
+      "specialization": "eye",
+      "id": 1
+    },
+    {
+      "name": "Akhilandeswari Adepu",
+      "salary": "25000",
+      "gender": "famale",
+      "age": "25",
+      "specialization": "eye",
+      "id": 2
+    },
+    {
+      "name": "",
+      "salary": "",
+      "gender": "",
+      "age": "",
+      "specialization": "",
+      "id": 3
+    },
+    {
+      "name": "",
+      "salary": "",
+      "gender": "",
+      "age": "",
+      "specialization": "",
+      "id": 4
+    },
+    {
+      "name": "",
+      "salary": "",
+      "gender": "",
+      "age": "",
+      "specialization": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "salary": "",
+      "gender": "",
+      "age": "",
+      "specialization": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "salary": "",
+      "gender": "",
+      "age": "",
+      "specialization": "",
+      "id": 7
+    }
+  ],
+  "patients": []
+}
